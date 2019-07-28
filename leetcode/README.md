@@ -1,1 +1,1 @@
-(leetcode)[leetcode.com]
+[Leetcode](leetcode.com)
