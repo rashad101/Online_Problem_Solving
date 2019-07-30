@@ -10,3 +10,28 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        for i,n in enumerate(nums):
+            if i==0:
+                if nums[i]==target:
+                    return i
+                elif len(nums)==1:
+                    if nums[i]>target:
+                        return 0
+                    elif nums[i]==target:
+                        return i
+                    else:
+                        return i+1
+                if nums[i]>target:
+                    return 0
+            elif i==len(nums)-1:
+                if nums[i]==target:
+                    return i
+                elif nums[i]>target:
+                    return i
+                else:
+                    return i+1
+            else:
+                if nums[i]==target:
+                    return i
+                elif nums[i]>target:
+                    return i
