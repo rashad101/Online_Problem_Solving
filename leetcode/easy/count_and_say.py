@@ -1,6 +1,7 @@
 #https://leetcode.com/problems/count-and-say/
 
-
+#Runtime: 24 ms, faster than 51.70% of Python online submissions for Count and Say.
+#Memory Usage: 11.8 MB, less than 73.66% of Python online submissions for Count and Say.
 class Solution(object):
     def countAndSay(self, n):
         """

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53629376-cde5-4e63-8a79-c41b2f4b2254" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/easy/count_and_say.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/easy/count_and_say.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +110,7 @@
       <updated>1564299742560</updated>
       <workItem from="1564299745285" duration="3399000" />
       <workItem from="1564303297099" duration="2560000" />
-      <workItem from="1564519099910" duration="4487000" />
+      <workItem from="1564519099910" duration="4560000" />
     </task>
     <servers />
   </component>
