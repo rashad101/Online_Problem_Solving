@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53629376-cde5-4e63-8a79-c41b2f4b2254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/easy/numberof1bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/warmup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/easy/numberof1bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/easy/numberof1bits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +134,7 @@
       <workItem from="1564299745285" duration="3399000" />
       <workItem from="1564303297099" duration="2560000" />
       <workItem from="1564519099910" duration="5956000" />
-      <workItem from="1564907143512" duration="1146000" />
+      <workItem from="1564907143512" duration="1199000" />
     </task>
     <servers />
   </component>
