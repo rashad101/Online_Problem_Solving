@@ -1,5 +1,8 @@
 #https://leetcode.com/problems/power-of-two/
 
+
+#Runtime: 20 ms, faster than 61.06% of Python online submissions for Power of Two.
+#Memory Usage: 11.7 MB, less than 62.64% of Python online submissions for Power of Two.
 class Solution(object):
     def isPowerOfTwo(self, n):
         """
